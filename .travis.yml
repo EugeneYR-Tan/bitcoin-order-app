@@ -17,7 +17,7 @@ branches:
 before_script:
   - npm install -g @angular/cli
 script:
-  - ng build --prod --base-href https://EugeneYR-Tan.github.io/bitcoin-order-app
+  - ng build --prod --base-href https://eugeneyr-tan.github.io/bitcoin-order-app/
 
   
 deploy:
